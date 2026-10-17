@@ -1,0 +1,20 @@
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+app_backup.py
+wallet_backup.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets and local configuration
+.env
